@@ -233,3 +233,89 @@ https://www.swr3.de/~podcast/podcasts/podschalk-102.xml %YY%_swr3 PODSCHALK
 https://www.swr3.de/~podcast/podcasts/jogis-jungs-106.xml %YY%_swr3 JOGIS_JUNGS
 https://www.swr3.de/~podcast/podcasts/tod-am-kanzleramt-104.xml %YY%_swr3 TOD_AM_KANZLERAMT
 https://www.swr3.de/~podcast/podcasts/wulff-100.xml %YY%_swr3 CHRISTIAN_WULFF
+#   SWR4 BW -  8 Podcasts
+https://www.swr.de/~podcast/swr4/swr4-annelies-royale-welt-podcast-100.xml %YY%_swr4 Annelies_Royale_Welt
+https://www.swr.de/~podcast/swr4/gartentipp-podcast-102.xml %YY%_swr4 Gartentipp
+https://www.swr.de/~podcast/swr4/stars-im-studio-podcast-100.xml %YY%_swr4 Stars_im_Studio
+https://www.swr.de/~podcast/swr4/frisoer-podcast-100.xml %YY%_swr4 Der_Frisör
+https://www.swr.de/~podcast/swr4/selten-aber-super-podcast-100.xml %YY%_swr4 Selten_aber_super_Schlager_Raritäten
+https://www.swr.de/~podcast/schlager/swr-schlager-startalk-podcast-100.xml %YY%_swr4 Schlager_Startalk
+https://www.swr.de/~podcast/swr4/swr4-kocht-podcast-100.xml %YY%_swr4 SWR4_kocht 
+https://www.swr.de/~podcast/swr4/die-aehn-un-die-anner-podcast-100.xml %YY%_swr4 Die_Ähn_un_die_Anner
+#   SWR Das Ding -  21 Podcasts
+https://www.dasding.de/~podcast/podcasts/geld-machen-welt-retten-podcast-100.xml %YY%_dasding GELD_MACHEN_WELT_RETTEN
+https://www.dasding.de/~podcast/podcasts/fuenf-minuten-vor-dem-tod-der-kriminalpodcast-100.xml %YY%_dasding 5_MINUTEN_VOR_DEM_TOD_DER_KRIMINALPODCAST
+https://www.dasding.de/~podcast/podcasts/sack-reis-podcast-100.xml %YY%_dasding SACK_REIS
+https://www.dasding.de/~podcast/podcasts/pancake-politik-podcast-102.xml %YY%_dasding PANCAKE_POLITIK
+#%YY%_dasding DEUTSCHLAND3000
+#   SR1 Das Ding -  21 Podcasts%YY%_dasding
+https://sr-mediathek.de/pcast/feeds/SR1_SPUL_P/feed.xml %YY%_sr1 SCHICKSAL_DER_SR1_PODCAST_ÜBER_DAS_LEBEN
+https://sr-mediathek.de/pcast/feeds/SR1_FR_P/feed.xml %YY%_sr1 FERNSEHRAUSCH_DER_TV_PODCAST_ZUM_HÖREN
+https://sr-mediathek.de/pcast/feeds/SR1_IVS_P/feed.xml %YY%_sr1 INTERVIEW_SPEZIAL
+https://sr-mediathek.de/pcast/feeds/SR1_ZW_P/feed.xml %YY%_sr1 ZWISCHENRUF
+https://sr-mediathek.de/pcast/feeds/SR1_STD_P/feed.xml %YY%_sr1 STAND_DER_DINGE
+https://sr-mediathek.de/pcast/feeds/SR1_DO_P/feed.xml %YY%_sr1 PROFESSORIN_DOMINO 
+https://sr-mediathek.de/pcast/feeds/SR1_AB_P/feed.xml %YY%_sr1 ABENDROT
+https://sr-mediathek.de/pcast/feeds/SR1_DFK_P/feed.xml %YY%_sr1 DOMINO_DEUTSCH_FRANZÖSISCHE_KINDERNACHRICHTEN
+#   SR3 21 Podcasts%YY%_dasding
+http://pcast.sr-online.de/feeds/sr3ausdemleben/feed.xml %YY%_sr3 Aus_dem_Leben
+#   HR1 6 Podcasts
+https://podcast.hr.de/hr1_talk/podcast.xml %YY%_hr1 TALK
+https://podcast.hr.de/hr1_schroeder/podcast.xml %YY%_hr1 SCHROEDERS_DIENSTAG
+https://podcast.hr.de/hr1_bauer/podcast.xml %YY%_hr1 BAUER_VERSTEHT_FRAU
+https://podcast.hr.de/hr1_rainerdachselt/podcast.xml %YY%_hr1 Rainer_Dachselts_Wochenrückblick
+https://podcast.hr.de/hr1_zuspruch/podcast.xml %YY%_hr1 ZUSPRUCH
+https://podcast.hr.de/hr1_sonntagsgedanken/podcast.xml %YY%_hr1 SONNTAGSGEDANKEN
+#   HR2 15 Podcasts
+https://podcast.hr.de/hr2_hoerbar/podcast.xml %YY%_hr2 HÖRBAR
+https://podcast.hr.de/hr2_musiktalk/podcast.xml %YY%_hr2 MENSCHEN_UND_IHRE_MUSIK
+https://podcast.hr.de/derTag/podcast.xml %YY%_hr2 Geschichten_Reportagen_Gespräche
+https://podcast.hr.de/hr2_doppelkopf/podcast.xml %YY%_hr2 DOPPELKOPF
+https://podcast.hr.de/freiheit-deluxe/podcast.xml %YY%_hr2 FREIHEIT_DELUXE
+https://podcast.hr.de/hr2_buch/podcast.xml %YY%_hr2 NEUE_BÜCHER
+https://podcast.hr.de/hr2_musikrezension/podcast.xml %YY%_hr2 NEUE_CDS
+https://podcast.hr.de/hr2_dokumentation_und_reportage/podcast.xml %YY%_hr2 Dokumentation_und_Reportage
+https://podcast.hr.de/hr2_audio/podcast.xml %YY%_hr2 HÖRBUCHZEIT
+https://podcast.hr.de/hr2_geschichten_erwachsene/podcast.xml %YY%_hr2 GESCHICHTEN_FREI_ERZÄHLT
+https://podcast.hr.de/hr2_zuspruch/podcast.xml %YY%_hr2 ZUSPRUCH
+https://podcast.hr.de/hr2_morgenfeier/podcast.xml %YY%_hr2 MORGENFEIER
+https://podcast.hr.de/hr2_camino/podcast.xml %YY%_hr2 RELIGIONEN_AUF_DEM_WEG
+https://podcast.hr.de/hr2_hoerspiel/podcast.xml %YY%_hr2 JÜDISCHE_WELT
+https://podcast.hr.de/hr2_lebenswert/podcast.xml %YY%_hr2 LEBENSWERT
+https://podcast.hr.de/brdnoir/podcast.xml %YY%_hr2 OKTOBERFESTATTENTAT
+#   HR3 7 Podcasts
+https://podcast.hr.de/hr3_offair/podcast.xml %YY%_hr3 OFF_AIR 
+https://podcast.hr.de/hr3_baerbelschaefer/podcast.xml %YY%_hr3 Der_Sonntagstalk
+https://podcast.hr.de/hr3_weihnachtsgeschichte/podcast.xml %YY%_hr3 WEIHNACHTSGESCHICHTE
+#   HR4 7 Podcasts
+https://podcast.hr.de/hr4_polizeireport/podcast.xml %YY%_hr4 POLIZEIREPORT
+https://podcast.hr.de/hr4_nordosthessen/podcast.xml %YY%_hr4 NORD_OSTHESSEN
+https://podcast.hr.de/hr4_mittelhessen/podcast.xml %YY%_hr4 MITTELHESSEN
+https://podcast.hr.de/hr4_rheinmain/podcast.xml %YY%_hr4 RHEIN_MAIN_UND_SÜDHESSEN
+https://podcast.hr.de/hr4_uebrigens/podcast.xml %YY%_hr4 ÜBRIGENS
+https://podcast.hr.de/hr4_gemeindeportraets/podcast.xml %YY%_hr4 GEMEINDEPORTRÄTS
+https://podcast.hr.de/hr4_gottesdienste/podcast.xml %YY%_hr4 GOTTESDIENSTE
+#   HR info 7 Podcasts
+https://podcast.hr.de/hrinfo_politik/podcast.xml %YY%_hr_info POLITIK
+https://podcast.hr.de/hr_info_thema/podcast.xml %YY%_hr_info DAS_THEMA
+https://podcast.hr.de/hrinfo_aktuell/podcast.xml %YY%_hr_info AKTUELL
+https://podcast.hr.de/der_tag_in_hessen/podcast.xml %YY%_hr_info DER_TAG_IN_HESSEN
+https://podcast.hr.de/hr-info_gespraech/podcast.xml %YY%_hr_info DAS_INTERVIEW
+https://podcast.hr.de/hrinfo-echt-jetzt/podcast.xml %YY%_hr_info ECHT_JETZT
+https://podcast.hr.de/hr-info_engelfragt/podcast.xml %YY%_hr_info ENGEL_FRAGT
+https://podcast.hr.de/verurteilt/podcast.xml %YY%_hr_info VERURTEILT
+https://podcast.hr.de/hrinfo_wissenswert/podcast.xml %YY%_hr_info WISSENSWERT
+https://podcast.hr.de/hr-info_weltraumwagner/podcast.xml %YY%_hr_info WELTRAUMWAGNER
+https://podcast.hr.de/hr-info_reportage/podcast.xml %YY%_hr_info DIE_REPORTAGE
+http://podcast.hr-online.de/deutschland2019/podcast.xml %YY%_hr_info WIR_HÖREN_DICH
+https://podcast.hr.de/funkkolleg_mensch_tier/podcast.xml %YY%_hr_info FUNKKOLLEG_MENSCH_UND_TIER
+https://podcast.hr.de/funkkolleg_ernaehrung/podcast.xml %YY%_hr_info FUNKKOLLEG_ERNÄHRUNG
+https://podcast.hr.de/funkkolleg_religion/podcast.xml %YY%_hr_info RELIGION_MACHT_POLITIK
+https://podcast.hr.de/funkkolleg_religion/podcast.xml %YY%_hr_info BIOLOGIE_UND_ETHIK
+https://podcast.hr.de/hrinfo_funkkolleg_sicherheit/podcast.xml %YY%_hr_info FUNKKOLLEG_SICHERHEIT
+https://podcast.hr.de/hr-info_glauben/podcast.xml %YY%_hr_info HIMMEL_UND_ERDE
+https://podcast.hr.de/hrinfo_jungmachtpolitik/podcast.xml %YY%_hr_info JUNG_MACHT_POLITIK.
+https://podcast.hr.de/hrinfo_kindesmissbrauch/podcast.xml %YY%_hr_info KINDESMISSHANDLUNG_IN_DEUTSCHLAND
+https://podcast.hr.de/hr-info_kulturlust/podcast.xml %YY%_hr_info KULTUR
+https://podcast.hr.de/hr_info_explorer/podcast.xml %YY%_hr_info NETZWELT
+https://podcast.hr.de/hr-info_wirtschaft/podcast.xml%YY%_hr_info WIRTSCHAFT
