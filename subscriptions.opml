@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="2.0">
+  <head>
+    <title>Meine Subscriptions</title>
+    <dateCreated>20 Feb 22 19:32:26 +0100</dateCreated>
+  </head>
+  <body>
+    <outline text="#GeekTalk Daily" title="#GeekTalk Daily" type="rss" xmlUrl="https://daily.geektalk.ch/feed/podcast/" htmlUrl="https://daily.geektalk.ch" />
+    <outline text="#heiseshow (Audio)" title="#heiseshow (Audio)" type="rss" xmlUrl="https://heiseshow.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/%23heiseshow" />
+    <outline text="150 Fragen in Sachen Podcasts" title="150 Fragen in Sachen Podcasts" type="rss" xmlUrl="https://cdn.julephosting.de/podcasts/176-150-fragen-in-sachen-podcasts/feed.rss" htmlUrl="https://150fragen.de" />
+    <outline text="Alternative Nachrichten: News. Polemik. Satire." title="Alternative Nachrichten: News. Polemik. Satire." type="rss" xmlUrl="https://ef-magazin.de/_radio/Alternative_Nachrichten/feed.xml" htmlUrl="https://ef-magazin.de/_radio/Alternative_Nachrichten/feed.xml" />
+    <outline text="apolut Podcast Archive - apolut.net" title="apolut Podcast Archive - apolut.net" type="rss" xmlUrl="https://apolut.net/podcast/feed/" htmlUrl="https://apolut.net" />
+    <outline text="Asozial" title="Asozial" type="rss" xmlUrl="https://ef-magazin.de/_radio/Asozial/feed.xml" htmlUrl="https://ef-magazin.de/_radio/Asozial/feed.xml" />
+    <outline text="Bandbreite" title="Bandbreite" type="rss" xmlUrl="https://bandbreite.fm/?feed=mp3" htmlUrl="https://bandbreite.fm" />
+    <outline text="Breitband - Deutschlandfunk Kultur" title="Breitband - Deutschlandfunk Kultur" type="rss" xmlUrl="https://www.deutschlandfunkkultur.de/podcast-breitband-medien-und-digitale-kultur-ganze-sendung-100.xml" htmlUrl="https://www.deutschlandfunkkultur.de/breitband-100.html" />
+    <outline text="Chaosradio" title="Chaosradio" type="rss" xmlUrl="https://chaosradio.de/feed/m4a" htmlUrl="https://chaosradio.de" />
+    <outline text="CRE: Technik, Kultur, Gesellschaft" title="CRE: Technik, Kultur, Gesellschaft" type="rss" xmlUrl="https://feeds.metaebene.me/cre/m4a" htmlUrl="https://cre.fm" />
+    <outline text="Cui Bono: WTF happened to Ken Jebsen?" title="Cui Bono: WTF happened to Ken Jebsen?" type="rss" xmlUrl="https://cui-bono.podigee.io/feed/mp3" htmlUrl="https://studio-bummens.de/" />
+    <outline text="c’t uplink" title="c’t uplink" type="rss" xmlUrl="https://ct-uplink.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t+uplink" />
+    <outline text="FALTER Radio" title="FALTER Radio" type="rss" xmlUrl="https://rss.acast.com/falter-radio" htmlUrl="https://falter.at/radio" />
+    <outline text="FAZ Digitec" title="FAZ Digitec" type="rss" xmlUrl="https://digitec.podigee.io/feed/mp3" htmlUrl="https://app.adjust.com/8sasetq_gxy4985" />
+    <outline text="Finanzielle Intelligenz mit Marc Friedrich" title="Finanzielle Intelligenz mit Marc Friedrich" type="rss" xmlUrl="https://anchor.fm/s/17b7674c/podcast/rss" htmlUrl="https://anchor.fm/marcfriedrich7" />
+    <outline text="Freak Show" title="Freak Show" type="rss" xmlUrl="https://feeds.metaebene.me/freakshow/m4a" htmlUrl="https://freakshow.fm" />
+    <outline text="Frequenz | Podcasts hören &amp; machen" title="Frequenz | Podcasts hören &amp; machen" type="rss" xmlUrl="https://feeds.viertausendhertz.de/frequenz" htmlUrl="https://viertausendhertz.de/" />
+    <outline text="GeekWeek | TechPodcast" title="GeekWeek | TechPodcast" type="rss" xmlUrl="https://geek-week.de/feed/podcast/" htmlUrl="https://geek-week.de" />
+    <outline text="I.T. Never Stops" title="I.T. Never Stops" type="rss" xmlUrl="https://zukunftnachholenpodcast.libsyn.com/rss" htmlUrl="https://team-it-group.de/podcast/" />
+    <outline text="indubio" title="indubio" type="rss" xmlUrl="https://www.spreaker.com/show/4605067/episodes/feed" htmlUrl="https://www.spreaker.com/show/indubio" />
+    <outline text="Jung &amp; Naiv" title="Jung &amp; Naiv" type="rss" xmlUrl="https://jung-naiv.podigee.io/feed/mp3" htmlUrl="https://www.jungundnaiv.de/" />
+    <outline text="KI in der Industrie" title="KI in der Industrie" type="rss" xmlUrl="https://kipodcast.podigee.io/feed/mp3" htmlUrl="http://www.kipodcast.de" />
+    <outline text="Kurz informiert – die IT-News des Tages von heise online" title="Kurz informiert – die IT-News des Tages von heise online" type="rss" xmlUrl="https://www.heise.de/rss/topnews-audio.rss" htmlUrl="https://www.heise.de/podcasts" />
+    <outline text="Lage der Nation - der Politik-Podcast aus Berlin" title="Lage der Nation - der Politik-Podcast aus Berlin" type="rss" xmlUrl="https://feeds.lagedernation.org/feeds/ldn-mp3.xml" htmlUrl="https://lagedernation.org" />
+    <outline text="MichlFranken Technologie Podcast (MFTP) (MichlFranken)" title="MichlFranken Technologie Podcast (MFTP) (MichlFranken)" type="rss" xmlUrl="https://www.michlfranken.de/feed/mp3/" htmlUrl="https://www.michlfranken.de/podcast" />
+    <outline text="Na Podsłuchu - Niebezpiecznik.pl" title="Na Podsłuchu - Niebezpiecznik.pl" type="rss" xmlUrl="https://www.spreaker.com/show/2621972/episodes/feed" htmlUrl="https://www.spreaker.com/show/na-podsluchu-niebezpiecznik-pl" />
+    <outline text="NachDenkSeiten – Die kritische Website" title="NachDenkSeiten – Die kritische Website" type="rss" xmlUrl="https://www.nachdenkseiten.de/?feed=podcast" htmlUrl="https://www.nachdenkseiten.de" />
+    <outline text="Nacktes Niveau" title="Nacktes Niveau" type="rss" xmlUrl="https://www.spreaker.com/show/5136972/episodes/feed" htmlUrl="https://www.spreaker.com/show/nacktes-niveau" />
+    <outline text="Netzbasteln - Deutschlandfunk Nova" title="Netzbasteln - Deutschlandfunk Nova" type="rss" xmlUrl="https://www.deutschlandfunknova.de/podcast/netzbasteln" htmlUrl="https://www.deutschlandfunknova.de/podcasts/download/netzbasteln" />
+    <outline text="Neues aus der Bundespressekonferenz" title="Neues aus der Bundespressekonferenz" type="rss" xmlUrl="https://bpk.podigee.io/feed/mp3" htmlUrl="https://bpk.podigee.io/" />
+    <outline text="Noise" title="Noise" type="rss" xmlUrl="https://noise-podcast.podigee.io/feed/mp3" htmlUrl="https://undone.work/" />
+    <outline text="Perle" title="Perle" type="rss" xmlUrl="https://ef-magazin.de/_radio/perle/feed.xml" htmlUrl="https://ef-magazin.de/_radio/Perle/feed.xml" />
+    <outline text="Podcasts von Tichys Einblick" title="Podcasts von Tichys Einblick" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:186342045/sounds.rss" htmlUrl="https://www.tichyseinblick.de/impressum/" />
+    <outline text="Positionierung statt Wettbewerb" title="Positionierung statt Wettbewerb" type="rss" xmlUrl="https://podcast.selders.tv/feed/mp3" htmlUrl="https://www.selders.com/" />
+    <outline text="PUNKT.PRERADOVIC Podcast" title="PUNKT.PRERADOVIC Podcast" type="rss" xmlUrl="https://feed.podbean.com/punktpreradovic/feed.xml" htmlUrl="https://punktpreradovic.podbean.com" />
+    <outline text="Radiogesichter" title="Radiogesichter" type="rss" xmlUrl="https://radiogesichter.podigee.io/feed/mp3" htmlUrl="https://radiogesichter.podigee.io/" />
+    <outline text="RadioTux" title="RadioTux" type="rss" xmlUrl="http://prometheus.radiotux.de/index.php?/feeds/index.rss2" htmlUrl="https://www.radiotux.de/" />
+    <outline text="RT DE" title="RT DE" type="rss" xmlUrl="https://feed.podbean.com/rtde/feed.xml" htmlUrl="https://rtdeutsch.podbean.com" />
+    <outline text="SharePointPodcast - Der Modern Workplace Podcast" title="SharePointPodcast - Der Modern Workplace Podcast" type="rss" xmlUrl="https://sharepointpodcast.de/feed/pod/" htmlUrl="https://sharepointpodcast.de/" />
+    <outline text="So techt Deutschland - der ntv Tech-Podcast" title="So techt Deutschland - der ntv Tech-Podcast" type="rss" xmlUrl="https://www.n-tv.de/mediathek/audio/Podcast/so_techt_Deutschland/rss?type=itunes" htmlUrl="https://www.n-tv.de/mediathek/audio/Podcast/so_techt_Deutschland/" />
+    <outline text="stefanfritz.de BlogCast" title="stefanfritz.de BlogCast" type="rss" xmlUrl="https://feeds.narando.com/feeds/c0b24a0a-4618-4550-8375-eb0a9674eff4/rendered/rss" htmlUrl="https://www.stefanfritz.de" />
+    <outline text="Strippenzieher und Tarifdschungel - Der Podcast von teltarif.de" title="Strippenzieher und Tarifdschungel - Der Podcast von teltarif.de" type="rss" xmlUrl="http://www.teltarif.de/feed/podcast/20.rss2" htmlUrl="https://www.teltarif.de/nr0/podcast" />
+    <outline text="t3n Podcast – Das wöchentliche Update für digitale Pioniere" title="t3n Podcast – Das wöchentliche Update für digitale Pioniere" type="rss" xmlUrl="https://t3n-podcast.podigee.io/feed/mp3" htmlUrl="https://t3n-podcast.podigee.io/" />
+    <outline text="Talk im Hangar-7" title="Talk im Hangar-7" type="rss" xmlUrl="https://servustv.castos.com/talk-im-hangar-7" htmlUrl="https://servustv.com" />
+    <outline text="Working Draft" title="Working Draft" type="rss" xmlUrl="https://workingdraft.de/?feed=podcast" htmlUrl="https://workingdraft.de" />
+    <outline text="WP Sofa - Ein WordPress Podcast" title="WP Sofa - Ein WordPress Podcast" type="rss" xmlUrl="http://m4a.wp-sofa.de/" htmlUrl="https://wp-sofa.de" />
+  </body>
+</opml>
